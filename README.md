@@ -263,3 +263,9 @@ PHP_Laravel12_Console_Menu/
 ------------------------------------------------------------------------
 
 Your PHP_Laravel12_Console_Menu Project is now ready!
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> main
